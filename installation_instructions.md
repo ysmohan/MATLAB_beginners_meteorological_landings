@@ -8,7 +8,7 @@
 - Enter your details. Ensure that you are using your Unimelb account. 
 - When asked how you will use Matlab, choose academic use. Do not select student use.
 - You will receive a validation email. Click on the link and follow instructions.
-- After entering your details, you will be asked to associate with a license. Enter the following:
+- After entering your details, you will be asked to associate with a license. Enter the following:<br>
         <b> Staff:  24759-36418-71647-13382-89362
         Student:  18098-22076-81253-90866-03229</b>
 
@@ -29,6 +29,6 @@
 
 <b>Alternately instead of downloading the Matlab software, you can also use Matlab online. To do this:</b>
 
-Go to https://matlab.mathworks.com/. 
-Use mathworks.com Username and Password you just created to login and follow instructions.
-You are now ready to use Matlab online.
+- Go to https://matlab.mathworks.com/. 
+- Use mathworks.com Username and Password you just created to login and follow instructions.
+- You are now ready to use Matlab online.
