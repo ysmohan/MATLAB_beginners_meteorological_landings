@@ -9,7 +9,7 @@
 - When asked how you will use Matlab, choose academic use. Do not select student use.
 - You will receive a validation email. Click on the link and follow instructions.
 - After entering your details, you will be asked to associate with a license. Enter the following:<br>
-        <b> Staff:  24759-36418-71647-13382-89362
+        <b> Staff:  24759-36418-71647-13382-89362 <br>
         Student:  18098-22076-81253-90866-03229</b>
 
 * If you already have an account follow these instructions instead: 
